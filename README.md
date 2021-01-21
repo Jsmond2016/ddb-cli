@@ -46,4 +46,5 @@ program.parse(process.argv)
 
 参考资料：
 
+- [从0到1用Node完成一个CLI工具](https://www.bilibili.com/video/BV1QK4y1t7w5?t=2628)
 - [开课吧夏老师-cli代码资料](https://github.com/su37josephxia/kaikeba-cli/blob/master/bin/miku.js)
