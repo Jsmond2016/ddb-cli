@@ -19,6 +19,7 @@
     "download-git-repo": "^3.0.2",
     "figlet": "^1.5.0",
     "handlebars": "^4.7.6",
+    "inquirer": "^7.3.3",
     "open": "^7.3.1",
     "ora": "^5.3.0",
     "watch": "^1.0.2"
