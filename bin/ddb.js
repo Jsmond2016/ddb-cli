@@ -12,7 +12,7 @@ program
     .parse(process.argv);
 
 program
-  .command("create <name>")
+  .command("create")
   .description("create a project")
   .action(() => {
     chalk.green("-_- .... 欢迎使用 ddb-cli，轻松构建 vue-cli 应用")
@@ -21,7 +21,8 @@ program
 			if (answer.conf) {
         console.log('answer', answer);
 				console.log('answer.conf: ', answer.conf);
-				// 创建文件
+        // 创建文件
+        require('../lib/create')(answer)
 				// create(answer)
 			}
 		})
