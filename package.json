@@ -14,8 +14,11 @@
     "commander": "^5.1.0",
     "inquirer": "^7.1.0",
     "which": "^2.0.2"
-   },
+  },
   "keywords": [],
   "author": "cli-demo-author",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "ncp": "^2.0.0"
+  }
 }
