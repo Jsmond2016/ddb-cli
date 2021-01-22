@@ -408,6 +408,8 @@ program
 
 参考资料：
 
+- [how-to-build-a-cli-with-node-js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js) 推荐！！
+- [command-line-app-with-nodejs](https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs)
 - [Node.js 命令行程序开发教程-阮一峰](https://www.ruanyifeng.com/blog/2015/05/command-line-with-node.html)
 - [如何从零开始开发一个 node.js 命令行(cli)工具](https://juejin.cn/post/6883070890130145288) 推荐
 - [手把手教你用Node.js创建CLI](https://segmentfault.com/a/1190000022721056) 推荐
